@@ -1,0 +1,23 @@
+{
+  "name": "als2xml",
+  "version": "0.0.1",
+  "description": "Convert .als files into .xml files",
+  "main": "index.js",
+  "dependencies": {
+    "meow": "^3.0.0"
+  },
+  "author": "Matthew Brandly <brandly13@gmail.com> (http://brandly.me/)",
+  "license": "MIT",
+  "bin": {
+    "als2xml": "cli.js"
+  },
+  "preferGlobal": true,
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "repository": "brandly/als2xml",
+  "files": [
+    "index.js",
+    "cli.js"
+  ]
+}
