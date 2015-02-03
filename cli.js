@@ -1,3 +1,6 @@
+#!/usr/bin/env node
+'use strict';
+
 var als2xml = require('./');
 var meow = require('meow');
 
