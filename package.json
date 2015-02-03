@@ -1,6 +1,6 @@
 {
   "name": "als2xml",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Convert .als files into .xml files",
   "main": "index.js",
   "dependencies": {
